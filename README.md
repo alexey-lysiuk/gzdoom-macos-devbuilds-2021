@@ -2,7 +2,7 @@
 
 |Version / Link|SHA-256 Checksum|
 |---|---|
-|[`g4.6pre-45-g1767fdfe7`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.6pre-45-g1767fdfe7/gzdoom-g4.6pre-45-g1767fdfe7.dmg)|`abb4bfdc25024229a9501245f680be84205c30ba9484a770b06f4b3ba9a8194e`|
+|[`g4.6pre-45-g1767fdfe7`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.6pre-45-g1767fdfe7/gzdoom-g4.6pre-45-g1767fdfe7.zip)|`9e65c44c96f82bea7adafc3d13c77111bdd25962cedddc15803c99ba9799b6f7`|
 
 [Previous builds - 2020](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds-2020)  
 [Previous builds - 2019](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds-2019)  
