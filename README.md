@@ -2,6 +2,7 @@
 
 |Version / Link|SHA-256 Checksum|
 |---|---|
+|[`g4.7.0pre-194-gfb107f80e`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.7.0pre-194-gfb107f80e/gzdoom-g4.7.0pre-194-gfb107f80e.zip)|`83ce5a262d9084c88b4839e294394b3b4587fa63479f1f53b20c823ee54743dd`|
 |[`g4.7.0pre-178-gc9d9982b6`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.7.0pre-178-gc9d9982b6/gzdoom-g4.7.0pre-178-gc9d9982b6.zip)|`21406928bfa8226bfa6ae999ca541c96aebd1f6ec2726b93f9eb7102a31815b9`|
 |[`g4.7.0pre-169-g796890bb9`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.7.0pre-169-g796890bb9/gzdoom-g4.7.0pre-169-g796890bb9.zip)|`0790a551f38be5d752c67ae15c6edc87ab4167b11850ea5224d39e3fc5a78ca9`|
 |[`g4.7.0pre-144-g854e11a9d`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.7.0pre-144-g854e11a9d/gzdoom-g4.7.0pre-144-g854e11a9d.zip)|`835f28ec0ac1c3e42319496fd2ed58a143bd6d70aaf9e12af1add659c700c402`|
